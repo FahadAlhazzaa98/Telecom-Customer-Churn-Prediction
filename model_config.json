@@ -1,0 +1,6 @@
+{
+    "threshold": 0.3,
+    "model": "Logistic Regression",
+    "roc_auc": 0.8497,
+    "f1_score": 0.6455
+}
